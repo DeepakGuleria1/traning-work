@@ -23,3 +23,18 @@ class demo_Sleep extends Thread{
     }
 
 }
+
+OUTPUT--
+    //500 TIME DELAY
+    1
+    1
+    //500 TIME DELAY
+    2
+    2
+    //500 TIME DELAY
+    3
+    3
+    //500 TIME DELAY
+    4
+    4
+    //500 TIME DELAY
