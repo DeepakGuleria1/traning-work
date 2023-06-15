@@ -34,12 +34,3 @@ Thread-1 in controll
 Thread-1 in controll
 main in controll
 main in controll
-
-
-
-
-
-
-
-
-
