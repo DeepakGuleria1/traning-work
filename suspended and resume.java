@@ -32,3 +32,29 @@ class Main {
     }
 
 }
+
+OUTPUT-->
+    Thread-0
+    1
+    Thread-2
+    1
+    Thread-1
+    1
+    Thread-0
+    2
+    Thread-2
+    2
+    Thread-1
+    2
+    Thread-0
+    3
+    Thread-2
+    3
+    Thread-1
+    3
+    Thread-0
+    4
+    Thread-2
+    4
+    Thread-1
+    4
