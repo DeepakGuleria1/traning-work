@@ -23,3 +23,23 @@ for(int i=0;i<3;i++){
     }
 
 }
+
+OUTPUT-->
+Thread-0 in controll
+Thread-0 in controll
+Thread-0 in controll
+main in controll
+Thread-1 in controll
+Thread-1 in controll
+Thread-1 in controll
+main in controll
+main in controll
+
+
+
+
+
+
+
+
+
