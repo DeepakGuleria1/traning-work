@@ -1,6 +1,6 @@
 class demoThread extends Thread implements Runnable {
      public void run() {
-         int i = 5;
+         int i = 1;
          while (i != 5) {
              try {
                  System.out.println(Thread.currentThread().getName());
